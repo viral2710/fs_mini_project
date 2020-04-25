@@ -1,0 +1,4 @@
+C:\Users\viral\source\repos\Project2\Project2\Debug\Project2.vcxprojAssemblyReference.cache
+C:\Users\viral\source\repos\Project2\Project2\Debug\Project2.MyForm.resources
+C:\Users\viral\source\repos\Project2\Project2\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\viral\source\repos\Project2\Project2\Debug\Project2.update.resources
